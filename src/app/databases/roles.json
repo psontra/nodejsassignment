@@ -1,0 +1,15 @@
+[
+  {
+    "id": "c1afbe9f-11d5-4b8f-b229-9e73245b9170",
+    "name": "Admin",
+    "permissions": [
+      "user-view",
+      "user-create",
+      "user-edit",
+      "user-logout",
+      "medicine-view",
+      "medicine-create",
+      "medicine-update"
+    ]
+  }
+]
