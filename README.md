@@ -1,4 +1,4 @@
-b# Techbase Code Challenge
+# Simple NodeJS Project
 
 **Requisites**
 - node version >= 12 (tested and run on **v12.18.3**)
